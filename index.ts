@@ -1,4 +1,4 @@
-import p5 = require('p5');
-import {sierpinski} from './fractals'
+import p5 = require("p5");
+import { sierpinski } from "./fractals";
 
-new p5(sierpinski, document.body)
+new p5(sierpinski, document.body);
